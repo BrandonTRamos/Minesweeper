@@ -1,6 +1,6 @@
 import os 
 import sys
-
+#This is a comment
 
 def create_minelist(boardsize):
     import random
